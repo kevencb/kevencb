@@ -1,4 +1,4 @@
-👋 I'm @kevencb and I'm learning step by step.
+👋 Hola, soy @kevencb y estoy aprendiendo paso a paso :)
 
 <!---
 kevencb/kevencb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
